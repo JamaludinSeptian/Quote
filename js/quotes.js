@@ -11,7 +11,7 @@ const arrayOfQuotes = [
     { 'author' : 'FRICO',
       'quote' : 'Hidup Seperti Bermain Basket.'
     },
-    { 'author' : 'JAMAL PAHLEVi',
+    { 'author' : 'JAMAL PAHLEVI',
       'quote' : 'Bagi ku 1+1=2'
     },
     { 'author' : 'FADEL',
@@ -58,6 +58,12 @@ const arrayOfQuotes = [
     },
     { 'author' : 'TAUFIK',
       'quote' : 'Mau ku tembak kau dengan cinta.'
+    },
+    { 'author' : 'JORDAN',
+      'quote' : 'Coba Dari G, Dari G.'
+    },
+    { 'author' : 'ADI',
+      'quote' : 'ANJIRRRRR.'
     },
 ];
 
